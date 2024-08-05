@@ -1,0 +1,20 @@
+{
+    "jobs": [
+      {
+        "title": "developer",
+        "id": 1,
+        "description": "working software"
+      },
+      {
+        "title": "IT",
+        "id": 2,
+        "description": "working comp"
+      },
+      {
+        "title": "cleaner",
+        "id": 3,
+        "description": "cleaning"
+      }
+    ]
+  }
+  
